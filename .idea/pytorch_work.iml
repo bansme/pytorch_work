@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ChatGLM2-6B" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dino-main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/segment-anything" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.9.17 (sftp://root@192.168.1.220:10100/home/conda_env/torch_env/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
