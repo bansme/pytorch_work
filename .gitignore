@@ -1,5 +1,9 @@
 # idea文件
 .idea/
+.github/
 
 # 压缩文件
 *.zip
+
+# .ims
+*.iml
